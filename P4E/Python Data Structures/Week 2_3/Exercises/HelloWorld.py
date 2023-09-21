@@ -1,0 +1,1 @@
+print("Hello Week 2, I am ready to learn!")
